@@ -1,0 +1,23 @@
+{
+  "name": "webapp_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nar30/wcserver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nar30/wcserver/issues"
+  },
+  "homepage": "https://github.com/Nar30/wcserver#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
